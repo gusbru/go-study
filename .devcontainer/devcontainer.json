@@ -1,0 +1,4 @@
+{
+    "name": "Codespaces Go Template Repository",
+    "dockerFile": "Dockerfile"
+}
